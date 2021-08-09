@@ -14,8 +14,11 @@
 # 자주하는 질문
 > DiscordAPIError: Missing Access 
 
-이 오류는
+https://discord.com/oauth2/authorize?client_id=클라이언트아이디&scope=bot+applications.commands 다음 링크로 봇을 초대해주세요. 클라이언트 아이디는 Discord Devloper 포털에 있습니다
 
+> Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+
+Discord Devloper - Bot = Intends 에서 https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png 다음과 같이 설정해주세요.
 
 Discord : ! MOON#9999 | ! ! MOON9999
 
