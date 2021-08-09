@@ -11,6 +11,11 @@
 > 해당 소스코드의 라이선스는 Apache License 2.0 입니다. 꼭 지켜주세요.
 > 소스코드 변형 후 배포시 해당 깃허브 원본 링크를 기재해주세요.
 
+# 자주하는 질문
+> DiscordAPIError: Missing Access 
+이
+
+
 Discord : ! MOON#9999 | ! ! MOON9999
 
 Discord Server : <a href="https://discord.gg/bmceBj6nH9" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
