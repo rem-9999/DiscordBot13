@@ -18,7 +18,7 @@ https://discord.com/oauth2/authorize?client_id=클라이언트아이디&scope=bo
 
 > Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
 
-Discord Devloper - Bot = Intends 에서 https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png 다음과 같이 설정해주세요.
+Discord Devloper - Bot = Intends 에서 [다음과 같이 설정해주세요.](https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png)
 
 Discord : ! MOON#9999 | ! ! MOON9999
 
