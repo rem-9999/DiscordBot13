@@ -22,6 +22,8 @@ Discord Devloper - Bot 에서 다음과 같이 설정해주세요.
 
 <img src="https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png"  width="1550" height="425">
 
+#
+
 Discord : ! MOON#9999 | ! ! MOON9999
 
 Discord Server : <a href="https://discord.gg/bmceBj6nH9" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
