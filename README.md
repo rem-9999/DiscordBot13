@@ -13,7 +13,8 @@
 
 # 자주하는 질문
 > DiscordAPIError: Missing Access 
-이
+
+이 오류는
 
 
 Discord : ! MOON#9999 | ! ! MOON9999
