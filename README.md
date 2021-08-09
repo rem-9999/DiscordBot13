@@ -20,7 +20,7 @@ https://discord.com/oauth2/authorize?client_id=클라이언트아이디&scope=bo
 
 Discord Devloper - Bot = Intends 에서 다음과 같이 설정해주세요.
 
-<img src="https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png"  width="1500" height="425">
+<img src="https://cdn.discordapp.com/attachments/874176721681801237/874194220456509450/unknown.png"  width="1500" height="440">
 
 Discord : ! MOON#9999 | ! ! MOON9999
 
