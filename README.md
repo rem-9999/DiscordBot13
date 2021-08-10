@@ -16,7 +16,7 @@
 
 https://discord.com/oauth2/authorize?client_id=클라이언트아이디&scope=bot+applications.commands 다음 링크로 봇을 초대해주세요. 클라이언트 아이디는 Discord Devloper 포털에 있습니다
 
-> Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+> Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted. 또는 TypeError('CLIENT_MISSING_INTENTS')
 
 Discord Devloper - Bot 에서 다음과 같이 설정해주세요.
 
